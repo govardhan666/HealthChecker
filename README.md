@@ -1,6 +1,6 @@
 ## HealthChecker
 
-A tiny tool that checks the given domain is down.
+A tool that checks the given domain is up or down.
 
 ## Installation
 
