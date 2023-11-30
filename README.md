@@ -10,12 +10,12 @@ A tool that checks the given domain is up or down.
 **Get the repo.**
 
 ```bash
-go get github.com/govardhan66/HealthChecker
+go get github.com/govardhan66/WebsiteHealthChecker
 ```
 OR
 
 ```bash
-git clone github.com/govardhan666/HealthChecker
+git clone github.com/govardhan666/WebsiteHealthChecker
 ```
 and then CD into the project and run
 
